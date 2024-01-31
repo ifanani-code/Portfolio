@@ -23,3 +23,7 @@
     backdrop-filter: blur(15px);
     box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
 }
+
+#msg {
+    @apply w-full lg:w-2/3 py-1 mx-auto flex justify-center text-center text-xl text-primary rounded-md bg-primary bg-opacity-20;
+}
