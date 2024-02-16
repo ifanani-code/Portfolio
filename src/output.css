@@ -700,6 +700,10 @@ video {
   display: flex;
 }
 
+.contents {
+  display: contents;
+}
+
 .hidden {
   display: none;
 }
@@ -929,10 +933,6 @@ video {
 
 .pt-36 {
   padding-top: 9rem;
-}
-
-.pt-32 {
-  padding-top: 8rem;
 }
 
 .text-center {
